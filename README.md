@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/angelosachet/angelosachet/blob/output/github-contribution-grid-snake.svg)
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelosachet&show_icons=true&theme=synthwave)
