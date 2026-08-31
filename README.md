@@ -58,42 +58,42 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"><img src="https://i.scdn.co/image/ab67616d00001e0204874856f3c501181d060128" width="150" alt="COQUETA - Fuerza Regida" /></a><br/>
-      <a href="https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"><b>COQUETA</b></a><br/>
-      <sub>Fuerza Regida</sub><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
       <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="150" alt="BAILE INoLVIDABLE - Bad Bunny" /></a><br/>
-      <a href="https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"><b>BAILE INoLVIDABLE</b></a><br/>
-      <sub>Bad Bunny</sub><br/>
-      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="150" alt="Tití Me Preguntó - Bad Bunny" /></a><br/>
-      <a href="https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"><b>Tití Me Preguntó</b></a><br/>
-      <sub>Bad Bunny</sub><br/>
-      <img src="https://img.shields.io/badge/1%20play-D95F5F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV"><img src="https://i.scdn.co/image/ab67616d00001e02080a103172ab636cd50df7f0" width="150" alt="Show Me How (Album V) - Men I Trust" /></a><br/>
-      <a href="https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV"><b>Show Me How (Album V)</b></a><br/>
-      <sub>Men I Trust</sub><br/>
-      <img src="https://img.shields.io/badge/1%20play-D95F5F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"><img src="https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79" width="150" alt="New Person, Same Old Mistakes - Tame Impala" /></a><br/>
       <a href="https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"><b>New Person, Same Old Mistakes</b></a><br/>
       <sub>Tame Impala</sub><br/>
-      <img src="https://img.shields.io/badge/1%20play-D95F5F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
+      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><img src="https://i.scdn.co/image/ab67616d00001e025a89b59fec31efd8f780a6bb" width="150" alt="Deceptacon - Le Tigre" /></a><br/>
       <a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><b>Deceptacon</b></a><br/>
       <sub>Le Tigre</sub><br/>
-      <img src="https://img.shields.io/badge/1%20play-D95F5F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
+      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"><img src="https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb" width="150" alt="GONE, GONE / THANK YOU - Tyler, The Creator" /></a><br/>
+      <a href="https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"><b>GONE, GONE / THANK YOU</b></a><br/>
+      <sub>Tyler, The Creator</sub><br/>
+      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><img src="https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699" width="150" alt="PRIDE. - Kendrick Lamar" /></a><br/>
+      <a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><b>PRIDE.</b></a><br/>
+      <sub>Kendrick Lamar</sub><br/>
+      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"><img src="https://i.scdn.co/image/ab67616d00001e0204874856f3c501181d060128" width="150" alt="COQUETA - Fuerza Regida" /></a><br/>
+      <a href="https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"><b>COQUETA</b></a><br/>
+      <sub>Fuerza Regida</sub><br/>
+      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
     </td>
   </tr>
 </table>
