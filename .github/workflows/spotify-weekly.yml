@@ -36,7 +36,7 @@ jobs:
           WINDOW_DAYS: '7'
           # explicitos para a secao nao mudar de cara se o default do
           # script mudar: https://github.com/angelosachet/readme-top-albums
-          ACCENT: '7FBF6F'
+          ACCENT: 'D95F5F'
           INK: '0a0a0a'
           SECTION_HEADING: '02 · som'
           OUTPUT_LANG: 'pt'
