@@ -1,0 +1,48 @@
+name: Top tracks no README
+
+on:
+  schedule:
+    # todos os dias as 06:10 UTC (03:10 em Brasilia)
+    - cron: '10 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-weekly
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Atualizar bloco do README
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ vars.LASTFM_USER }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_PROFILE_URL: ${{ vars.SPOTIFY_PROFILE_URL }}
+          ALBUM_LIMIT: '6'
+          ALBUMS_PER_ROW: '3'
+          WINDOW_DAYS: '30'
+        run: node scripts/update-readme.mjs
+
+      - name: Commitar se mudou
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "nada mudou"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'chore: atualiza top tracks da semana'
+          git push
