@@ -30,9 +30,10 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_PROFILE_URL: ${{ vars.SPOTIFY_PROFILE_URL }}
-          ALBUM_LIMIT: '6'
-          ALBUMS_PER_ROW: '3'
-          WINDOW_DAYS: '30'
+          GROUP_BY: 'track'
+          ITEM_LIMIT: '6'
+          ITEMS_PER_ROW: '3'
+          WINDOW_DAYS: '7'
           # explicitos para a secao nao mudar de cara se o default do
           # script mudar: https://github.com/angelosachet/readme-top-albums
           ACCENT: '7FBF6F'

@@ -115,49 +115,49 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 
 ## `02 · som`
 
-<sub>Os discos que mais rodaram nos últimos 30 dias. Atualiza sozinho, direto do que eu ouço.</sub>
+<sub>As músicas que mais rodaram nos últimos 7 dias. Atualiza sozinho, direto do que eu ouço.</sub>
 
 <br/>
 
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"><img src="https://i.scdn.co/image/ab67616d00001e028940ac99f49e44f59e6f7fb3" width="150" alt="Flower Boy - Tyler, The Creator" /></a><br/>
-      <a href="https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"><b>Flower Boy</b></a><br/>
-      <sub>Tyler, The Creator</sub><br/>
-      <img src="https://img.shields.io/badge/4%20faixas-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="4 faixas" />
+      <a href="https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"><img src="https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411" width="150" alt="BAILE INoLVIDABLE - Bad Bunny" /></a><br/>
+      <a href="https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"><b>BAILE INoLVIDABLE</b></a><br/>
+      <sub>Bad Bunny</sub><br/>
+      <img src="https://img.shields.io/badge/2%20plays-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"><img src="https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb" width="150" alt="IGOR - Tyler, The Creator" /></a><br/>
-      <a href="https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"><b>IGOR</b></a><br/>
-      <sub>Tyler, The Creator</sub><br/>
-      <img src="https://img.shields.io/badge/3%20faixas-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="3 faixas" />
+      <a href="https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"><img src="https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72" width="150" alt="Tití Me Preguntó - Bad Bunny" /></a><br/>
+      <a href="https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"><b>Tití Me Preguntó</b></a><br/>
+      <sub>Bad Bunny</sub><br/>
+      <img src="https://img.shields.io/badge/1%20play-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"><img src="https://i.scdn.co/image/ab67616d00001e02aa95a399fd30fbb4f6f59fca" width="150" alt="CALL ME IF YOU GET LOST: The Estate Sale - Tyler, The Creator" /></a><br/>
-      <a href="https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"><b>CALL ME IF YOU GET LOST: The Estate Sale</b></a><br/>
-      <sub>Tyler, The Creator</sub><br/>
-      <img src="https://img.shields.io/badge/3%20faixas-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="3 faixas" />
+      <a href="https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"><img src="https://i.scdn.co/image/ab67616d00001e0204874856f3c501181d060128" width="150" alt="COQUETA - Fuerza Regida" /></a><br/>
+      <a href="https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"><b>COQUETA</b></a><br/>
+      <sub>Fuerza Regida</sub><br/>
+      <img src="https://img.shields.io/badge/1%20play-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"><img src="https://i.scdn.co/image/ab67616d00001e023fe10c957fc57e5dd7c1db24" width="150" alt="Vibes - VACATIONS" /></a><br/>
-      <a href="https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"><b>Vibes</b></a><br/>
-      <sub>VACATIONS</sub><br/>
-      <img src="https://img.shields.io/badge/2%20faixas-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="2 faixas" />
+      <a href="https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV"><img src="https://i.scdn.co/image/ab67616d00001e02080a103172ab636cd50df7f0" width="150" alt="Show Me How (Album V) - Men I Trust" /></a><br/>
+      <a href="https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV"><b>Show Me How (Album V)</b></a><br/>
+      <sub>Men I Trust</sub><br/>
+      <img src="https://img.shields.io/badge/1%20play-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C"><img src="https://i.scdn.co/image/ab67616d00001e022eb4d117b70ea7ac2c24e316" width="150" alt="Changes - VACATIONS" /></a><br/>
-      <a href="https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C"><b>Changes</b></a><br/>
-      <sub>VACATIONS</sub><br/>
-      <img src="https://img.shields.io/badge/2%20faixas-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="2 faixas" />
+      <a href="https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"><img src="https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79" width="150" alt="New Person, Same Old Mistakes - Tame Impala" /></a><br/>
+      <a href="https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"><b>New Person, Same Old Mistakes</b></a><br/>
+      <sub>Tame Impala</sub><br/>
+      <img src="https://img.shields.io/badge/1%20play-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"><img src="https://i.scdn.co/image/ab67616d00001e02913f492347e1585748450855" width="150" alt="Wolf - Tyler, The Creator" /></a><br/>
-      <a href="https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"><b>Wolf</b></a><br/>
-      <sub>Tyler, The Creator</sub><br/>
-      <img src="https://img.shields.io/badge/2%20faixas-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="2 faixas" />
+      <a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><img src="https://i.scdn.co/image/ab67616d00001e025a89b59fec31efd8f780a6bb" width="150" alt="Deceptacon - Le Tigre" /></a><br/>
+      <a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><b>Deceptacon</b></a><br/>
+      <sub>Le Tigre</sub><br/>
+      <img src="https://img.shields.io/badge/1%20play-7FBF6F?style=flat-square&labelColor=0a0a0a" alt="1 play" />
     </td>
   </tr>
 </table>
