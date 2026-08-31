@@ -33,6 +33,13 @@ jobs:
           ALBUM_LIMIT: '6'
           ALBUMS_PER_ROW: '3'
           WINDOW_DAYS: '30'
+          # explicitos para a secao nao mudar de cara se o default do
+          # script mudar: https://github.com/angelosachet/readme-top-albums
+          ACCENT: '7FBF6F'
+          INK: '0a0a0a'
+          SECTION_HEADING: '02 · som'
+          OUTPUT_LANG: 'pt'
+          TIMEZONE: 'America/Sao_Paulo'
         run: node scripts/update-readme.mjs
 
       - name: Commitar se mudou

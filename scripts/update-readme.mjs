@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Atualiza o bloco dos albuns mais ouvidos da semana no README.
+ * Atualiza um bloco com os albuns mais ouvidos dentro de um README.
  *
  * Ranking: agregado dos scrobbles do Last.fm na janela de WINDOW_DAYS dias
  * (user.getrecenttracks), agrupado por album. Nao usamos
@@ -25,13 +25,48 @@ const LIMIT = Number(process.env.ALBUM_LIMIT || 6);
 const PER_ROW = Number(process.env.ALBUMS_PER_ROW || 3);
 const WINDOW_DAYS = Number(process.env.WINDOW_DAYS || 7);
 const MAX_PAGES = Number(process.env.MAX_PAGES || 10);
-// Identidade visual do README: verde de destaque sobre fundo quase preto.
-const ACCENT = process.env.ACCENT || '7FBF6F';
-const INK = process.env.INK || '0a0a0a';
-const SECTION_HEADING = process.env.SECTION_HEADING || '02 · som';
+const COVER_SIZE = Number(process.env.COVER_SIZE || 150);
+// Paleta do Spotify como padrao; sobrescreva para casar com o seu README.
+const ACCENT = process.env.ACCENT || '1DB954';
+const INK = process.env.INK || '191414';
+// OUTPUT_LANG, e nao LANG: LANG e variavel de ambiente do sistema e viria
+// preenchida (pt_BR.UTF-8, C.UTF-8...) sem ninguem ter pedido.
+const LANG = String(process.env.OUTPUT_LANG || 'pt').toLowerCase().startsWith('en') ? 'en' : 'pt';
+const TIMEZONE = process.env.TIMEZONE || 'UTC';
 const START = '<!-- SPOTIFY-WEEKLY:START -->';
 const END = '<!-- SPOTIFY-WEEKLY:END -->';
 const LASTFM_API = 'https://ws.audioscrobbler.com/2.0/';
+
+const TEXT = {
+  pt: {
+    heading: '🎧 mais ouvidos',
+    caption: (days) =>
+      `Os discos que mais rodaram nos últimos ${days} dias. Atualiza sozinho, direto do que eu ouço.`,
+    tracks: (n) => `${n} ${n === 1 ? 'faixa' : 'faixas'}`,
+    plays: (n) => `${n} plays`,
+    profile: 'Meu perfil no Spotify',
+    footer: (lastfm, spotify, stamp) =>
+      `Ranking do <a href="${lastfm}">Last.fm</a>${
+        spotify ? ' · capas e links do Spotify' : ''
+      } · atualizado em ${stamp}`,
+    locale: 'pt-BR',
+  },
+  en: {
+    heading: '🎧 on repeat',
+    caption: (days) =>
+      `The albums I played the most over the last ${days} days. Updates itself, straight from what I listen to.`,
+    tracks: (n) => `${n} ${n === 1 ? 'track' : 'tracks'}`,
+    plays: (n) => `${n} plays`,
+    profile: 'My Spotify profile',
+    footer: (lastfm, spotify, stamp) =>
+      `Ranked from <a href="${lastfm}">Last.fm</a>${
+        spotify ? ' · art and links from Spotify' : ''
+      } · updated ${stamp}`,
+    locale: 'en-US',
+  },
+}[LANG];
+
+const SECTION_HEADING = process.env.SECTION_HEADING || TEXT.heading;
 
 const fail = (msg) => {
   console.error(`erro: ${msg}`);
@@ -118,14 +153,17 @@ async function topAlbums() {
   );
 
   // Empate vai para o que ouvi mais recentemente. Ordenar por nome faria uma
-  // semana sem repeticoes virar uma lista alfabetica disfarcada de ranking.
+  // janela sem repeticoes virar uma lista alfabetica disfarcada de ranking.
   return [...albums.values()]
     .map((a) => ({ ...a, distinct: a.tracks.size }))
     .sort((a, b) => b.plays - a.plays || b.lastPlayed - a.lastPlayed);
 }
 
 async function spotifyToken() {
-  if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET) return null;
+  if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET) {
+    console.log('sem credenciais do Spotify: grid sai com placeholder e sem link');
+    return null;
+  }
   const basic = Buffer.from(`${SPOTIFY_CLIENT_ID}:${SPOTIFY_CLIENT_SECRET}`).toString('base64');
   try {
     const data = await json('https://accounts.spotify.com/api/token', {
@@ -180,19 +218,19 @@ const esc = (s = '') =>
 const FALLBACK_COVER = `https://placehold.co/300x300/${INK}/${ACCENT}?text=%E2%99%AA`;
 
 /**
- * "4 faixas" quando ouvi o disco sem repetir nada (o caso comum aqui);
- * "7 plays" quando houve repeticao, porque ai faixas != plays.
+ * "4 faixas" quando o disco rodou sem repetir nada (o caso comum de quem ouve
+ * album inteiro); "7 plays" quando houve repeticao, porque ai os dois divergem.
  */
 const metricLabel = ({ plays, distinct }) =>
-  plays === distinct ? `${plays} ${plays === 1 ? 'faixa' : 'faixas'}` : `${plays} plays`;
+  plays === distinct ? TEXT.tracks(plays) : TEXT.plays(plays);
 
-/** Badge no mesmo idioma visual dos outros do README (flat-square + labelColor). */
+/** Badge no mesmo idioma visual dos shields.io usados em READMEs de perfil. */
 const metricBadge = (item) =>
   `https://img.shields.io/badge/${encodeURIComponent(metricLabel(item))}-${ACCENT}?style=flat-square&labelColor=${INK}`;
 
 function cell(item, width) {
   const label = `${esc(item.album)} - ${esc(item.artist)}`;
-  const art = `<img src="${esc(item.cover || FALLBACK_COVER)}" width="150" alt="${label}" />`;
+  const art = `<img src="${esc(item.cover || FALLBACK_COVER)}" width="${COVER_SIZE}" alt="${label}" />`;
   const cover = item.url ? `<a href="${esc(item.url)}">${art}</a>` : art;
   const title = item.url
     ? `<a href="${esc(item.url)}"><b>${esc(item.album)}</b></a>`
@@ -217,14 +255,13 @@ function renderGrid(items, { hasSpotify }) {
     rows.push(['  <tr>', ...chunk.map((it) => cell(it, width)), '  </tr>'].join('\n'));
   }
 
-  const janela = WINDOW_DAYS === 7 ? 'nos últimos 7 dias' : `nos últimos ${WINDOW_DAYS} dias`;
-  const stamp = new Date().toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+  const stamp = new Date().toLocaleDateString(TEXT.locale, { timeZone: TIMEZONE });
   const lastfmUrl = `https://www.last.fm/user/${encodeURIComponent(LASTFM_USER)}`;
   const profileBadge = SPOTIFY_PROFILE_URL
     ? [
         '',
         `<a href="${esc(SPOTIFY_PROFILE_URL)}">`,
-        `  <img src="https://img.shields.io/badge/SPOTIFY-${ACCENT}?style=for-the-badge&logo=spotify&logoColor=${INK}" alt="Meu perfil no Spotify" />`,
+        `  <img src="https://img.shields.io/badge/SPOTIFY-${ACCENT}?style=for-the-badge&logo=spotify&logoColor=${INK}" alt="${TEXT.profile}" />`,
         '</a>',
       ]
     : [];
@@ -236,7 +273,7 @@ function renderGrid(items, { hasSpotify }) {
     '',
     `## \`${SECTION_HEADING}\``,
     '',
-    `<sub>Os discos que mais rodaram ${janela}. Atualiza sozinho, direto do que eu ouço.</sub>`,
+    `<sub>${TEXT.caption(WINDOW_DAYS)}</sub>`,
     ...profileBadge,
     '',
     '<br/>',
@@ -245,9 +282,7 @@ function renderGrid(items, { hasSpotify }) {
     ...rows,
     '</table>',
     '',
-    `<sub>Ranking do <a href="${lastfmUrl}">Last.fm</a>${
-      hasSpotify ? ' · capas e links do Spotify' : ''
-    } · atualizado em ${stamp}</sub>`,
+    `<sub>${TEXT.footer(lastfmUrl, hasSpotify, stamp)}</sub>`,
     '',
     '</div>',
     '',
