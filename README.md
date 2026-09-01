@@ -61,19 +61,19 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"><img src="https://i.scdn.co/image/ab67616d00001e02f7832bb86831bdec9848acda" width="150" alt="Impostor Syndrome - Sidney Gish" /></a><br/>
       <a href="https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"><b>Impostor Syndrome</b></a><br/>
       <sub>Sidney Gish</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><img src="https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699" width="150" alt="PRIDE. - Kendrick Lamar" /></a><br/>
-      <a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><b>PRIDE.</b></a><br/>
-      <sub>Kendrick Lamar</sub><br/>
-      <img src="https://img.shields.io/badge/3%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="3 plays" />
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><img src="https://i.scdn.co/image/ab67616d00001e025a89b59fec31efd8f780a6bb" width="150" alt="Deceptacon - Le Tigre" /></a><br/>
       <a href="https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"><b>Deceptacon</b></a><br/>
       <sub>Le Tigre</sub><br/>
-      <img src="https://img.shields.io/badge/3%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="3 plays" />
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"><img src="https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79" width="150" alt="New Person, Same Old Mistakes - Tame Impala" /></a><br/>
+      <a href="https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"><b>New Person, Same Old Mistakes</b></a><br/>
+      <sub>Tame Impala</sub><br/>
+      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
   </tr>
   <tr>
@@ -81,19 +81,19 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
       <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
       <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/3%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="3 plays" />
+      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"><img src="https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9" width="150" alt="Jigsaw Falling Into Place - Radiohead" /></a><br/>
-      <a href="https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"><b>Jigsaw Falling Into Place</b></a><br/>
-      <sub>Radiohead</sub><br/>
-      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
+      <a href="https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"><img src="https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb" width="150" alt="GONE, GONE / THANK YOU - Tyler, The Creator" /></a><br/>
+      <a href="https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"><b>GONE, GONE / THANK YOU</b></a><br/>
+      <sub>Tyler, The Creator</sub><br/>
+      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"><img src="https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb" width="150" alt="Down In A Hole (2022 Remaster) - Alice in Chains" /></a><br/>
-      <a href="https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"><b>Down In A Hole (2022 Remaster)</b></a><br/>
-      <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/2%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="2 plays" />
+      <a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><img src="https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699" width="150" alt="PRIDE. - Kendrick Lamar" /></a><br/>
+      <a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><b>PRIDE.</b></a><br/>
+      <sub>Kendrick Lamar</sub><br/>
+      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
   </tr>
 </table>
