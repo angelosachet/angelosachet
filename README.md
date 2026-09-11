@@ -61,13 +61,7 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><img src="https://i.scdn.co/image/ab67616d00001e0246748b86b868deb9fc279918" width="150" alt="it be okay - Zardy" /></a><br/>
       <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><b>it be okay</b></a><br/>
       <sub>Zardy</sub><br/>
-      <img src="https://img.shields.io/badge/33%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="33 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><img src="https://i.scdn.co/image/ab67616d00001e0221a9db18d46d6246e1958035" width="150" alt="Prom Queen - Beach Bunny" /></a><br/>
-      <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><b>Prom Queen</b></a><br/>
-      <sub>Beach Bunny</sub><br/>
-      <img src="https://img.shields.io/badge/23%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="23 plays" />
+      <img src="https://img.shields.io/badge/28%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="28 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><img src="https://i.scdn.co/image/ab67616d00001e02733020199e1ee05e41a0f5f7" width="150" alt="LEAN NO CHIMARRÃO - Galick" /></a><br/>
@@ -75,14 +69,14 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>Galick</sub><br/>
       <img src="https://img.shields.io/badge/20%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="20 plays" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3aONx6QMS3hfq0igxqEPbU"><img src="https://i.scdn.co/image/ab67616d00001e0291118fc462dc83aa46eac391" width="150" alt="TODO DIA UM MALANDRO ENCONTRA UM OTÁRIO - Baby T" /></a><br/>
       <a href="https://open.spotify.com/track/3aONx6QMS3hfq0igxqEPbU"><b>TODO DIA UM MALANDRO ENCONTRA UM OTÁRIO</b></a><br/>
       <sub>Baby T</sub><br/>
       <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
       <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
@@ -90,15 +84,21 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"><img src="https://i.scdn.co/image/ab67616d00001e026252a4d5ae17497ecbcd2c04" width="150" alt="mosi mosi? - 楽音" /></a><br/>
-      <a href="https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"><b>mosi mosi?</b></a><br/>
-      <sub>楽音</sub><br/>
-      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
+      <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><img src="https://i.scdn.co/image/ab67616d00001e0221a9db18d46d6246e1958035" width="150" alt="Prom Queen - Beach Bunny" /></a><br/>
+      <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><b>Prom Queen</b></a><br/>
+      <sub>Beach Bunny</sub><br/>
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3WsF2ksxLWsEQQAZMZhliW"><img src="https://i.scdn.co/image/ab67616d00001e02590bb2da4e4f33785fb06c70" width="150" alt="DEUS DA NOITE FREESTYLE - Galick" /></a><br/>
+      <a href="https://open.spotify.com/track/3WsF2ksxLWsEQQAZMZhliW"><b>DEUS DA NOITE FREESTYLE</b></a><br/>
+      <sub>Galick</sub><br/>
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 10/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 11/09/2026</sub>
 
 </div>
 
