@@ -61,19 +61,19 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><img src="https://i.scdn.co/image/ab67616d00001e0246748b86b868deb9fc279918" width="150" alt="it be okay - Zardy" /></a><br/>
       <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><b>it be okay</b></a><br/>
       <sub>Zardy</sub><br/>
-      <img src="https://img.shields.io/badge/20%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="20 plays" />
+      <img src="https://img.shields.io/badge/19%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="19 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
       <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><img src="https://i.scdn.co/image/ab67616d00001e0221a9db18d46d6246e1958035" width="150" alt="Prom Queen - Beach Bunny" /></a><br/>
       <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><b>Prom Queen</b></a><br/>
       <sub>Beach Bunny</sub><br/>
-      <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
   </tr>
   <tr>
@@ -81,24 +81,24 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><img src="https://i.scdn.co/image/ab67616d00001e02733020199e1ee05e41a0f5f7" width="150" alt="LEAN NO CHIMARRÃO - Galick" /></a><br/>
       <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><b>LEAN NO CHIMARRÃO</b></a><br/>
       <sub>Galick</sub><br/>
+      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"><img src="https://i.scdn.co/image/ab67616d00001e028649220140846c7edf7f1978" width="150" alt="Took Her To The O - King Von" /></a><br/>
+      <a href="https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"><b>Took Her To The O</b></a><br/>
+      <sub>King Von</sub><br/>
       <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"><img src="https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb" width="150" alt="Down In A Hole (2022 Remaster) - Alice in Chains" /></a><br/>
-      <a href="https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"><b>Down In A Hole (2022 Remaster)</b></a><br/>
-      <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2fzoCmdgrBBHAa1vDKrHjF"><img src="https://i.scdn.co/image/ab67616d00001e02fa7eb4c5ef195261d533f8e3" width="150" alt="CHINELÃO - Galick" /></a><br/>
-      <a href="https://open.spotify.com/track/2fzoCmdgrBBHAa1vDKrHjF"><b>CHINELÃO</b></a><br/>
+      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
+      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
       <sub>Galick</sub><br/>
-      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
+      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 12/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 13/09/2026</sub>
 
 </div>
 
