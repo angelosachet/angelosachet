@@ -58,16 +58,16 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><img src="https://i.scdn.co/image/ab67616d00001e0246748b86b868deb9fc279918" width="150" alt="it be okay - Zardy" /></a><br/>
-      <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><b>it be okay</b></a><br/>
-      <sub>Zardy</sub><br/>
-      <img src="https://img.shields.io/badge/19%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="19 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
       <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
+      <img src="https://img.shields.io/badge/19%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="19 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><img src="https://i.scdn.co/image/ab67616d00001e0246748b86b868deb9fc279918" width="150" alt="it be okay - Zardy" /></a><br/>
+      <a href="https://open.spotify.com/track/3BGOs6blumGyUbkkTjBNLa"><b>it be okay</b></a><br/>
+      <sub>Zardy</sub><br/>
+      <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3frZl6bno6us1TLjr6PZ4h"><img src="https://i.scdn.co/image/ab67616d00001e0221a9db18d46d6246e1958035" width="150" alt="Prom Queen - Beach Bunny" /></a><br/>
@@ -78,9 +78,15 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><img src="https://i.scdn.co/image/ab67616d00001e02733020199e1ee05e41a0f5f7" width="150" alt="LEAN NO CHIMARRÃO - Galick" /></a><br/>
-      <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><b>LEAN NO CHIMARRÃO</b></a><br/>
-      <sub>Galick</sub><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
+      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"><img src="https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb" width="150" alt="Down In A Hole (2022 Remaster) - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"><b>Down In A Hole (2022 Remaster)</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
     <td align="center" width="33%" valign="top">
@@ -89,16 +95,10 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>King Von</sub><br/>
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"><img src="https://i.scdn.co/image/ab67616d00001e02d7e1c68ed8e464b03095afda" width="150" alt="20 Min - Lil Uzi Vert" /></a><br/>
-      <a href="https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"><b>20 Min</b></a><br/>
-      <sub>Lil Uzi Vert</sub><br/>
-      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
-    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 14/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 15/09/2026</sub>
 
 </div>
 
