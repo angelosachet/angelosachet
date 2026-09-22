@@ -61,31 +61,25 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb"><img src="https://i.scdn.co/image/ab67616d00001e020b269b6186be2a9904080a2f" width="150" alt="Lefty - Title Fight" /></a><br/>
       <a href="https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb"><b>Lefty</b></a><br/>
       <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/28%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="28 plays" />
+      <img src="https://img.shields.io/badge/22%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="22 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"><img src="https://i.scdn.co/image/ab67616d00001e024a92eb0e4fcbe2fb6e1208e5" width="150" alt="Make No Sense - YoungBoy Never Broke Again" /></a><br/>
+      <a href="https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"><b>Make No Sense</b></a><br/>
+      <sub>YoungBoy Never Broke Again</sub><br/>
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3aOPE6CMuxsBSbl88mQUmM"><img src="https://i.scdn.co/image/ab67616d00001e020b269b6186be2a9904080a2f" width="150" alt="Head In The Ceiling Fan - Title Fight" /></a><br/>
       <a href="https://open.spotify.com/track/3aOPE6CMuxsBSbl88mQUmM"><b>Head In The Ceiling Fan</b></a><br/>
-      <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Shed - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><b>Shed</b></a><br/>
       <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"><img src="https://i.scdn.co/image/ab67616d00001e024a92eb0e4fcbe2fb6e1208e5" width="150" alt="Make No Sense - YoungBoy Never Broke Again" /></a><br/>
-      <a href="https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"><b>Make No Sense</b></a><br/>
-      <sub>YoungBoy Never Broke Again</sub><br/>
-      <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3p4XtQPFIz9OtkYazuDtCd"><img src="https://i.scdn.co/image/ab67616d00001e020b269b6186be2a9904080a2f" width="150" alt="Leaf - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/3p4XtQPFIz9OtkYazuDtCd"><b>Leaf</b></a><br/>
+      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Shed - Title Fight" /></a><br/>
+      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><b>Shed</b></a><br/>
       <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
@@ -95,10 +89,16 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"><img src="https://i.scdn.co/image/ab67616d00001e028f147e0af424cd7c6f91e9f2" width="150" alt="Youngest Daughter - Superheaven" /></a><br/>
+      <a href="https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"><b>Youngest Daughter</b></a><br/>
+      <sub>Superheaven</sub><br/>
+      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 21/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 22/09/2026</sub>
 
 </div>
 
