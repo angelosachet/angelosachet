@@ -58,28 +58,28 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb"><img src="https://i.scdn.co/image/ab67616d00001e020b269b6186be2a9904080a2f" width="150" alt="Lefty - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb"><b>Lefty</b></a><br/>
-      <sub>Title Fight</sub><br/>
+      <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
+      <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
+      <sub>Free Throw</sub><br/>
       <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Hey Ken, Someone Methodically Mushed the Donuts - Free Throw" /></a><br/>
+      <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><b>Hey Ken, Someone Methodically Mushed the Donuts</b></a><br/>
+      <sub>Free Throw</sub><br/>
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Shed - Title Fight" /></a><br/>
       <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><b>Shed</b></a><br/>
       <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
-      <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
-      <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3aOPE6CMuxsBSbl88mQUmM"><img src="https://i.scdn.co/image/ab67616d00001e020b269b6186be2a9904080a2f" width="150" alt="Head In The Ceiling Fan - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/3aOPE6CMuxsBSbl88mQUmM"><b>Head In The Ceiling Fan</b></a><br/>
+      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
+      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><b>Safe In Your Skin</b></a><br/>
       <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
@@ -90,15 +90,15 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><b>Safe In Your Skin</b></a><br/>
-      <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><img src="https://i.scdn.co/image/ab67616d00001e02d02f20f823a9090b7320d63f" width="150" alt="I'm Still Cheering For The 1980 U.S. Hockey Team - Oakwood" /></a><br/>
+      <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><b>I'm Still Cheering For The 1980 U.S. Hockey Team</b></a><br/>
+      <sub>Oakwood</sub><br/>
+      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 23/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 24/09/2026</sub>
 
 </div>
 
