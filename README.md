@@ -61,13 +61,13 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
       <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
+      <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Hey Ken, Someone Methodically Mushed the Donuts - Free Throw" /></a><br/>
       <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><b>Hey Ken, Someone Methodically Mushed the Donuts</b></a><br/>
       <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Shed - Title Fight" /></a><br/>
@@ -78,27 +78,27 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/2rmWNvXgq0LddvILeLyIn7"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Crescent-Shaped Depression - Title Fight" /></a><br/>
+      <a href="https://open.spotify.com/track/2rmWNvXgq0LddvILeLyIn7"><b>Crescent-Shaped Depression</b></a><br/>
+      <sub>Title Fight</sub><br/>
+      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
       <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><b>Safe In Your Skin</b></a><br/>
       <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"><img src="https://i.scdn.co/image/ab67616d00001e028f147e0af424cd7c6f91e9f2" width="150" alt="Youngest Daughter - Superheaven" /></a><br/>
-      <a href="https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"><b>Youngest Daughter</b></a><br/>
-      <sub>Superheaven</sub><br/>
+      <a href="https://open.spotify.com/track/3zb6SWbtSON0DGs7xPibeY"><img src="https://i.scdn.co/image/ab67616d00001e0298890ab31b06f44bcc40db75" width="150" alt="Fine, Great - Modern Baseball" /></a><br/>
+      <a href="https://open.spotify.com/track/3zb6SWbtSON0DGs7xPibeY"><b>Fine, Great</b></a><br/>
+      <sub>Modern Baseball</sub><br/>
       <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><img src="https://i.scdn.co/image/ab67616d00001e02d02f20f823a9090b7320d63f" width="150" alt="I'm Still Cheering For The 1980 U.S. Hockey Team - Oakwood" /></a><br/>
-      <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><b>I'm Still Cheering For The 1980 U.S. Hockey Team</b></a><br/>
-      <sub>Oakwood</sub><br/>
-      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 24/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 25/09/2026</sub>
 
 </div>
 
