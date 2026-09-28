@@ -61,7 +61,7 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
       <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
       <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
+      <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Hey Ken, Someone Methodically Mushed the Donuts - Free Throw" /></a><br/>
@@ -78,16 +78,16 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Shed - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><b>Shed</b></a><br/>
-      <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3zb6SWbtSON0DGs7xPibeY"><img src="https://i.scdn.co/image/ab67616d00001e0298890ab31b06f44bcc40db75" width="150" alt="Fine, Great - Modern Baseball" /></a><br/>
       <a href="https://open.spotify.com/track/3zb6SWbtSON0DGs7xPibeY"><b>Fine, Great</b></a><br/>
       <sub>Modern Baseball</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Shed - Title Fight" /></a><br/>
+      <a href="https://open.spotify.com/track/0ncEKvVJAj07OucphbBQT5"><b>Shed</b></a><br/>
+      <sub>Title Fight</sub><br/>
+      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><img src="https://i.scdn.co/image/ab67616d00001e02d02f20f823a9090b7320d63f" width="150" alt="I'm Still Cheering For The 1980 U.S. Hockey Team - Oakwood" /></a><br/>
@@ -98,7 +98,7 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 27/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 28/09/2026</sub>
 
 </div>
 
