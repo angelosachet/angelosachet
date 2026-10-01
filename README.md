@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Two Beers In - Free Throw" /></a><br/>
-      <a href="https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"><b>Two Beers In</b></a><br/>
-      <sub>Free Throw</sub><br/>
-      <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
       <sub>chard la plaga</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2rmWNvXgq0LddvILeLyIn7"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Crescent-Shaped Depression - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/2rmWNvXgq0LddvILeLyIn7"><b>Crescent-Shaped Depression</b></a><br/>
-      <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
+      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
+      <sub>lilgiela33</sub><br/>
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Isqueiro - zTokyo" /></a><br/>
+      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><b>Isqueiro</b></a><br/>
+      <sub>zTokyo</sub><br/>
+      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><img src="https://i.scdn.co/image/ab67616d00001e029dbdeee2cc8f368fe92bcd90" width="150" alt="Hey Ken, Someone Methodically Mushed the Donuts - Free Throw" /></a><br/>
-      <a href="https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V"><b>Hey Ken, Someone Methodically Mushed the Donuts</b></a><br/>
-      <sub>Free Throw</sub><br/>
+      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><img src="https://i.scdn.co/image/ab67616d00001e02345bbecb9227f7c015e73bf1" width="150" alt="Nada Demais - zTokyo" /></a><br/>
+      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><b>Nada Demais</b></a><br/>
+      <sub>zTokyo</sub><br/>
+      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/1NlsbxZfjSlDS8YHczrcmV"><img src="https://i.scdn.co/image/ab67616d00001e021055bea2691c267b49e4c8f6" width="150" alt="desculpe amor, eu sou borderline - Copa" /></a><br/>
+      <a href="https://open.spotify.com/track/1NlsbxZfjSlDS8YHczrcmV"><b>desculpe amor, eu sou borderline</b></a><br/>
+      <sub>Copa</sub><br/>
       <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb"><img src="https://i.scdn.co/image/ab67616d00001e020b269b6186be2a9904080a2f" width="150" alt="Lefty - Title Fight" /></a><br/>
-      <a href="https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb"><b>Lefty</b></a><br/>
-      <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><img src="https://i.scdn.co/image/ab67616d00001e02d02f20f823a9090b7320d63f" width="150" alt="I'm Still Cheering For The 1980 U.S. Hockey Team - Oakwood" /></a><br/>
-      <a href="https://open.spotify.com/track/4nuTEzmtIl2BDhXd3vLff6"><b>I'm Still Cheering For The 1980 U.S. Hockey Team</b></a><br/>
-      <sub>Oakwood</sub><br/>
+      <a href="https://open.spotify.com/track/5YchFg8MzEvEhGgMaFBSzN"><img src="https://i.scdn.co/image/ab67616d00001e02c8d569f4bd732b519740c9db" width="150" alt="Little Rockstar - lilgiela33" /></a><br/>
+      <a href="https://open.spotify.com/track/5YchFg8MzEvEhGgMaFBSzN"><b>Little Rockstar</b></a><br/>
+      <sub>lilgiela33</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 30/09/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 01/10/2026</sub>
 
 </div>
 
