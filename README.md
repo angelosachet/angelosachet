@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
-      <sub>chard la plaga</sub><br/>
+      <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Ghost Chroma - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><b>Ghost Chroma</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/21%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="21 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/5nePjgHhRcZp66gd80DYi1"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Diamantes e Peixes - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/5nePjgHhRcZp66gd80DYi1"><b>Diamantes e Peixes</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/21%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="21 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3FdV2TW8CmDYREiQ77r0gL"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Akira - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/3FdV2TW8CmDYREiQ77r0gL"><b>Akira</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
       <img src="https://img.shields.io/badge/20%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="20 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
-      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
-      <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Isqueiro - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><b>Isqueiro</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><img src="https://i.scdn.co/image/ab67616d00001e02345bbecb9227f7c015e73bf1" width="150" alt="Nada Demais - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><b>Nada Demais</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+      <a href="https://open.spotify.com/track/5RebtU2k5O8jnUYAOG84F4"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Tapa - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/5RebtU2k5O8jnUYAOG84F4"><b>Tapa</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/19%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="19 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/1EYUA2YcEbHLz8LmmjLuKF"><img src="https://i.scdn.co/image/ab67616d00001e0295341428796687fc861b12e4" width="150" alt="Yao Ming - CANDYBOINARCO" /></a><br/>
-      <a href="https://open.spotify.com/track/1EYUA2YcEbHLz8LmmjLuKF"><b>Yao Ming</b></a><br/>
-      <sub>CANDYBOINARCO</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <a href="https://open.spotify.com/track/77pQgHU2io1nhqLGzLJ5EY"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="9MM - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/77pQgHU2io1nhqLGzLJ5EY"><b>9MM</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/19%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="19 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/1NlsbxZfjSlDS8YHczrcmV"><img src="https://i.scdn.co/image/ab67616d00001e021055bea2691c267b49e4c8f6" width="150" alt="desculpe amor, eu sou borderline - Copa" /></a><br/>
-      <a href="https://open.spotify.com/track/1NlsbxZfjSlDS8YHczrcmV"><b>desculpe amor, eu sou borderline</b></a><br/>
-      <sub>Copa</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
+      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
+      <sub>chard la plaga</sub><br/>
+      <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 02/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 03/10/2026</sub>
 
 </div>
 
