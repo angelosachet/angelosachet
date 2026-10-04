@@ -93,12 +93,12 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
       <sub>chard la plaga</sub><br/>
-      <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
+      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 03/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 04/10/2026</sub>
 
 </div>
 
