@@ -61,44 +61,44 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Ghost Chroma - YUNG LIXO" /></a><br/>
       <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><b>Ghost Chroma</b></a><br/>
       <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/22%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="22 plays" />
+      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/5nePjgHhRcZp66gd80DYi1"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Diamantes e Peixes - YUNG LIXO" /></a><br/>
       <a href="https://open.spotify.com/track/5nePjgHhRcZp66gd80DYi1"><b>Diamantes e Peixes</b></a><br/>
       <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/20%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="20 plays" />
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3FdV2TW8CmDYREiQ77r0gL"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Akira - YUNG LIXO" /></a><br/>
       <a href="https://open.spotify.com/track/3FdV2TW8CmDYREiQ77r0gL"><b>Akira</b></a><br/>
       <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
+      <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4R5GVhAFrUEDZSzUHI2nZE"><img src="https://i.scdn.co/image/ab67616d00001e022d05d8b4353ba2efdaae4f3b" width="150" alt="Noite - YUNG LIXO" /></a><br/>
-      <a href="https://open.spotify.com/track/4R5GVhAFrUEDZSzUHI2nZE"><b>Noite</b></a><br/>
-      <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/77pQgHU2io1nhqLGzLJ5EY"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="9MM - YUNG LIXO" /></a><br/>
       <a href="https://open.spotify.com/track/77pQgHU2io1nhqLGzLJ5EY"><b>9MM</b></a><br/>
       <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2km9qHZdxBCYr4Ns2QaX0P"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Festa - YUNG LIXO" /></a><br/>
-      <a href="https://open.spotify.com/track/2km9qHZdxBCYr4Ns2QaX0P"><b>Festa</b></a><br/>
+      <a href="https://open.spotify.com/track/4R5GVhAFrUEDZSzUHI2nZE"><img src="https://i.scdn.co/image/ab67616d00001e022d05d8b4353ba2efdaae4f3b" width="150" alt="Noite - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/4R5GVhAFrUEDZSzUHI2nZE"><b>Noite</b></a><br/>
       <sub>YUNG LIXO</sub><br/>
       <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/5RebtU2k5O8jnUYAOG84F4"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Tapa - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/5RebtU2k5O8jnUYAOG84F4"><b>Tapa</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 13/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 14/10/2026</sub>
 
 </div>
 
