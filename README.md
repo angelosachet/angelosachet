@@ -58,22 +58,22 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Ghost Chroma - YUNG LIXO" /></a><br/>
-      <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><b>Ghost Chroma</b></a><br/>
-      <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5nePjgHhRcZp66gd80DYi1"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Diamantes e Peixes - YUNG LIXO" /></a><br/>
-      <a href="https://open.spotify.com/track/5nePjgHhRcZp66gd80DYi1"><b>Diamantes e Peixes</b></a><br/>
-      <sub>YUNG LIXO</sub><br/>
+      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
+      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><b>Safe In Your Skin</b></a><br/>
+      <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
-      <sub>chard la plaga</sub><br/>
+      <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><img src="https://i.scdn.co/image/ab67616d00001e022e5685fad57fe67bfed3fc4f" width="150" alt="Aquellos Ojos Verdes - Ibrahim Ferrer" /></a><br/>
+      <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><b>Aquellos Ojos Verdes</b></a><br/>
+      <sub>Ibrahim Ferrer</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/5RebtU2k5O8jnUYAOG84F4"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Tapa - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/5RebtU2k5O8jnUYAOG84F4"><b>Tapa</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
   </tr>
   <tr>
@@ -81,24 +81,24 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/77pQgHU2io1nhqLGzLJ5EY"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="9MM - YUNG LIXO" /></a><br/>
       <a href="https://open.spotify.com/track/77pQgHU2io1nhqLGzLJ5EY"><b>9MM</b></a><br/>
       <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3FdV2TW8CmDYREiQ77r0gL"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Akira - YUNG LIXO" /></a><br/>
-      <a href="https://open.spotify.com/track/3FdV2TW8CmDYREiQ77r0gL"><b>Akira</b></a><br/>
-      <sub>YUNG LIXO</sub><br/>
-      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><img src="https://i.scdn.co/image/ab67616d00001e022e5685fad57fe67bfed3fc4f" width="150" alt="Aquellos Ojos Verdes - Ibrahim Ferrer" /></a><br/>
-      <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><b>Aquellos Ojos Verdes</b></a><br/>
-      <sub>Ibrahim Ferrer</sub><br/>
       <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><img src="https://i.scdn.co/image/ab67616d00001e02b74e7390bd9f61824422a9c4" width="150" alt="Ghost Chroma - YUNG LIXO" /></a><br/>
+      <a href="https://open.spotify.com/track/4odadf8orHRfK5ve4njuOg"><b>Ghost Chroma</b></a><br/>
+      <sub>YUNG LIXO</sub><br/>
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"><img src="https://i.scdn.co/image/ab67616d00001e021e734783a00588087331a0b4" width="150" alt="Never Meant - American Football" /></a><br/>
+      <a href="https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"><b>Never Meant</b></a><br/>
+      <sub>American Football</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 15/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 16/10/2026</sub>
 
 </div>
 
