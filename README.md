@@ -67,20 +67,26 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><img src="https://i.scdn.co/image/ab67616d00001e02b821ef507b9d6481a5b145be" width="150" alt="LEAN NO CHIMARRÃO - Galick" /></a><br/>
       <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><b>LEAN NO CHIMARRÃO</b></a><br/>
       <sub>Galick</sub><br/>
+      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
+      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
+      <sub>Galick</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><img src="https://i.scdn.co/image/ab67616d00001e022e5685fad57fe67bfed3fc4f" width="150" alt="Aquellos Ojos Verdes - Ibrahim Ferrer" /></a><br/>
       <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><b>Aquellos Ojos Verdes</b></a><br/>
       <sub>Ibrahim Ferrer</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
-      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
-      <sub>Galick</sub><br/>
+      <a href="https://open.spotify.com/track/3pFbqeh7JKtwQOTKTtUGsD"><img src="https://i.scdn.co/image/ab67616d00001e025c30e937c93e9bedad756934" width="150" alt="Outra Vadia - Link do Zap" /></a><br/>
+      <a href="https://open.spotify.com/track/3pFbqeh7JKtwQOTKTtUGsD"><b>Outra Vadia</b></a><br/>
+      <sub>Link do Zap</sub><br/>
       <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
     <td align="center" width="33%" valign="top">
@@ -89,16 +95,10 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>Galick</sub><br/>
       <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"><img src="https://i.scdn.co/image/ab67616d00001e021e734783a00588087331a0b4" width="150" alt="Never Meant - American Football" /></a><br/>
-      <a href="https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"><b>Never Meant</b></a><br/>
-      <sub>American Football</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
-    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 17/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 18/10/2026</sub>
 
 </div>
 
