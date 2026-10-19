@@ -61,7 +61,13 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
       <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><b>Safe In Your Skin</b></a><br/>
       <sub>Title Fight</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3WsF2ksxLWsEQQAZMZhliW"><img src="https://i.scdn.co/image/ab67616d00001e02590bb2da4e4f33785fb06c70" width="150" alt="DEUS DA NOITE FREESTYLE - Galick" /></a><br/>
+      <a href="https://open.spotify.com/track/3WsF2ksxLWsEQQAZMZhliW"><b>DEUS DA NOITE FREESTYLE</b></a><br/>
+      <sub>Galick</sub><br/>
+      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><img src="https://i.scdn.co/image/ab67616d00001e02b821ef507b9d6481a5b145be" width="150" alt="LEAN NO CHIMARRÃO - Galick" /></a><br/>
@@ -69,36 +75,30 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>Galick</sub><br/>
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/079GgBaRzwbcZgLNvTNNA8"><img src="https://i.scdn.co/image/ab67616d00001e0221d424d871b34057bd84b8ff" width="150" alt="+PONTOS FREESTYLE - Galick" /></a><br/>
+      <a href="https://open.spotify.com/track/079GgBaRzwbcZgLNvTNNA8"><b>+PONTOS FREESTYLE</b></a><br/>
+      <sub>Galick</sub><br/>
+      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
+    </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
       <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
       <sub>Galick</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><img src="https://i.scdn.co/image/ab67616d00001e022e5685fad57fe67bfed3fc4f" width="150" alt="Aquellos Ojos Verdes - Ibrahim Ferrer" /></a><br/>
       <a href="https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"><b>Aquellos Ojos Verdes</b></a><br/>
       <sub>Ibrahim Ferrer</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3pFbqeh7JKtwQOTKTtUGsD"><img src="https://i.scdn.co/image/ab67616d00001e025c30e937c93e9bedad756934" width="150" alt="Outra Vadia - Link do Zap" /></a><br/>
-      <a href="https://open.spotify.com/track/3pFbqeh7JKtwQOTKTtUGsD"><b>Outra Vadia</b></a><br/>
-      <sub>Link do Zap</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/079GgBaRzwbcZgLNvTNNA8"><img src="https://i.scdn.co/image/ab67616d00001e0221d424d871b34057bd84b8ff" width="150" alt="+PONTOS FREESTYLE - Galick" /></a><br/>
-      <a href="https://open.spotify.com/track/079GgBaRzwbcZgLNvTNNA8"><b>+PONTOS FREESTYLE</b></a><br/>
-      <sub>Galick</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
-    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 18/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 19/10/2026</sub>
 
 </div>
 
