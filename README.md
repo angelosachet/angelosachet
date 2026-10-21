@@ -67,38 +67,38 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"><img src="https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12" width="150" alt="Fake Plastic Trees - Radiohead" /></a><br/>
       <a href="https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"><b>Fake Plastic Trees</b></a><br/>
       <sub>Radiohead</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3Ew29LQAkdVmnJ188mYzzp"><img src="https://i.scdn.co/image/ab67616d00001e0234f77b24b74f9d24bd5b416a" width="150" alt="Nicotine Dream - Breakup Shoes" /></a><br/>
+      <a href="https://open.spotify.com/track/3Ew29LQAkdVmnJ188mYzzp"><b>Nicotine Dream</b></a><br/>
+      <sub>Breakup Shoes</sub><br/>
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><img src="https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc" width="150" alt="K. - Cigarettes After Sex" /></a><br/>
       <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><b>K.</b></a><br/>
       <sub>Cigarettes After Sex</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3Ew29LQAkdVmnJ188mYzzp"><img src="https://i.scdn.co/image/ab67616d00001e0234f77b24b74f9d24bd5b416a" width="150" alt="Nicotine Dream - Breakup Shoes" /></a><br/>
-      <a href="https://open.spotify.com/track/3Ew29LQAkdVmnJ188mYzzp"><b>Nicotine Dream</b></a><br/>
-      <sub>Breakup Shoes</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
+      <img src="https://img.shields.io/badge/13%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="13 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
-      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
-      <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><img src="https://i.scdn.co/image/ab67616d00001e02b821ef507b9d6481a5b145be" width="150" alt="LEAN NO CHIMARRÃO - Galick" /></a><br/>
-      <a href="https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"><b>LEAN NO CHIMARRÃO</b></a><br/>
-      <sub>Galick</sub><br/>
+      <a href="https://open.spotify.com/track/73NKI74L085oOkIxyY9sJ1"><img src="https://i.scdn.co/image/ab67616d00001e02bd7e6a8c12705f17f10d150d" width="150" alt="Covet - alt version - Basement" /></a><br/>
+      <a href="https://open.spotify.com/track/73NKI74L085oOkIxyY9sJ1"><b>Covet - alt version</b></a><br/>
+      <sub>Basement</sub><br/>
       <img src="https://img.shields.io/badge/12%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="12 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 20/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 21/10/2026</sub>
 
 </div>
 
