@@ -61,7 +61,7 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
       <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
       <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/18%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="18 plays" />
+      <img src="https://img.shields.io/badge/17%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="17 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
@@ -78,27 +78,27 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><img src="https://i.scdn.co/image/ab67616d00001e0268f976257f19889fa27771e7" width="150" alt="bite my tongue - unplugged - Wilt" /></a><br/>
-      <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><b>bite my tongue - unplugged</b></a><br/>
-      <sub>Wilt</sub><br/>
-      <img src="https://img.shields.io/badge/16%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="16 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"><img src="https://i.scdn.co/image/ab67616d00001e025274788f34fc7656d2856dfd" width="150" alt="Luna - 2011 Remaster - The Smashing Pumpkins" /></a><br/>
       <a href="https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"><b>Luna - 2011 Remaster</b></a><br/>
       <sub>The Smashing Pumpkins</sub><br/>
-      <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><img src="https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc" width="150" alt="K. - Cigarettes After Sex" /></a><br/>
-      <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><b>K.</b></a><br/>
-      <sub>Cigarettes After Sex</sub><br/>
+      <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><img src="https://i.scdn.co/image/ab67616d00001e0268f976257f19889fa27771e7" width="150" alt="bite my tongue - unplugged - Wilt" /></a><br/>
+      <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><b>bite my tongue - unplugged</b></a><br/>
+      <sub>Wilt</sub><br/>
+      <img src="https://img.shields.io/badge/15%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="15 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"><img src="https://i.scdn.co/image/ab67616d00001e02afc2d1d2c8703a10aeded0af" width="150" alt="Lover, You Should've Come Over - Jeff Buckley" /></a><br/>
+      <a href="https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"><b>Lover, You Should've Come Over</b></a><br/>
+      <sub>Jeff Buckley</sub><br/>
       <img src="https://img.shields.io/badge/14%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="14 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 23/10/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 24/10/2026</sub>
 
 </div>
 
