@@ -58,22 +58,22 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://placehold.co/300x300/0a0a0a/D95F5F?text=%E2%99%AA" width="150" alt="Safe In Your Skin - Title Fight" /><br/>
-      <b>Safe In Your Skin</b><br/>
+      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><img src="https://i.scdn.co/image/ab67616d00001e024cf48c2dd382e6d7ca37cf30" width="150" alt="Safe In Your Skin - Title Fight" /></a><br/>
+      <a href="https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso"><b>Safe In Your Skin</b></a><br/>
       <sub>Title Fight</sub><br/>
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
-      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
-      <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><img src="https://i.scdn.co/image/ab67616d00001e02975493c69e395bf309144b81" width="150" alt="Her - The American Dawn" /></a><br/>
       <a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><b>Her</b></a><br/>
       <sub>The American Dawn</sub><br/>
-      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
+      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
   </tr>
   <tr>
@@ -81,24 +81,24 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"><img src="https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39" width="150" alt="Selfless - The Strokes" /></a><br/>
       <a href="https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"><b>Selfless</b></a><br/>
       <sub>The Strokes</sub><br/>
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"><img src="https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601" width="150" alt="What Once Was - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"><b>What Once Was</b></a><br/>
+      <sub>Her's</sub><br/>
       <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4ercRiJZl8kBm8vfPaNjrl"><img src="https://i.scdn.co/image/ab67616d00001e024960e8b13691e5570337d4d8" width="150" alt="On Melancholy Hill - Gorillaz" /></a><br/>
-      <a href="https://open.spotify.com/track/4ercRiJZl8kBm8vfPaNjrl"><b>On Melancholy Hill</b></a><br/>
-      <sub>Gorillaz</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"><img src="https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12" width="150" alt="Fake Plastic Trees - Radiohead" /></a><br/>
-      <a href="https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"><b>Fake Plastic Trees</b></a><br/>
+      <a href="https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6"><img src="https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151" width="150" alt="How to Disappear Completely - Radiohead" /></a><br/>
+      <a href="https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6"><b>How to Disappear Completely</b></a><br/>
       <sub>Radiohead</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 01/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 02/11/2026</sub>
 
 </div>
 
