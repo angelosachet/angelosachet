@@ -64,19 +64,25 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><img src="https://i.scdn.co/image/ab67616d00001e02fb5f82d19f9ad9e5be78873a" width="150" alt="Freio Motor - Ítalo Ribeiro" /></a><br/>
-      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><b>Freio Motor</b></a><br/>
-      <sub>Ítalo Ribeiro</sub><br/>
-      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><img src="https://i.scdn.co/image/ab67616d00001e02975493c69e395bf309144b81" width="150" alt="Her - The American Dawn" /></a><br/>
       <a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><b>Her</b></a><br/>
       <sub>The American Dawn</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/1EqhUJROfA4jQaBEaBeEx6"><img src="https://i.scdn.co/image/ab67616d00001e02178ae6e6c252273bb0661da0" width="150" alt="Música Para Achar Bruxa - Exclusive Os Cabides" /></a><br/>
+      <a href="https://open.spotify.com/track/1EqhUJROfA4jQaBEaBeEx6"><b>Música Para Achar Bruxa</b></a><br/>
+      <sub>Exclusive Os Cabides</sub><br/>
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+    </td>
   </tr>
   <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/51jG0OlS5GWuunFH05NyC6"><img src="https://i.scdn.co/image/ab67616d00001e0200b39b4a73d28536690b355c" width="150" alt="Hot Knifer - Peach Pit" /></a><br/>
+      <a href="https://open.spotify.com/track/51jG0OlS5GWuunFH05NyC6"><b>Hot Knifer</b></a><br/>
+      <sub>Peach Pit</sub><br/>
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+    </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><img src="https://i.scdn.co/image/ab67616d00001e0268f976257f19889fa27771e7" width="150" alt="bite my tongue - unplugged - Wilt" /></a><br/>
       <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><b>bite my tongue - unplugged</b></a><br/>
@@ -89,16 +95,10 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>The Strokes</sub><br/>
       <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3Ew29LQAkdVmnJ188mYzzp"><img src="https://i.scdn.co/image/ab67616d00001e0234f77b24b74f9d24bd5b416a" width="150" alt="Nicotine Dream - Breakup Shoes" /></a><br/>
-      <a href="https://open.spotify.com/track/3Ew29LQAkdVmnJ188mYzzp"><b>Nicotine Dream</b></a><br/>
-      <sub>Breakup Shoes</sub><br/>
-      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
-    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 06/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 07/11/2026</sub>
 
 </div>
 
