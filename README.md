@@ -61,12 +61,6 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
       <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
       <sub>Alice in Chains</sub><br/>
-      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><img src="https://i.scdn.co/image/ab67616d00001e02975493c69e395bf309144b81" width="150" alt="Her - The American Dawn" /></a><br/>
-      <a href="https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"><b>Her</b></a><br/>
-      <sub>The American Dawn</sub><br/>
       <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
     <td align="center" width="33%" valign="top">
@@ -75,30 +69,36 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>Exclusive Os Cabides</sub><br/>
       <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/51jG0OlS5GWuunFH05NyC6"><img src="https://i.scdn.co/image/ab67616d00001e0200b39b4a73d28536690b355c" width="150" alt="Hot Knifer - Peach Pit" /></a><br/>
       <a href="https://open.spotify.com/track/51jG0OlS5GWuunFH05NyC6"><b>Hot Knifer</b></a><br/>
       <sub>Peach Pit</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
+      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
+      <sub>Galick</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><img src="https://i.scdn.co/image/ab67616d00001e02fb5f82d19f9ad9e5be78873a" width="150" alt="Freio Motor - Ítalo Ribeiro" /></a><br/>
+      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><b>Freio Motor</b></a><br/>
+      <sub>Ítalo Ribeiro</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><img src="https://i.scdn.co/image/ab67616d00001e0268f976257f19889fa27771e7" width="150" alt="bite my tongue - unplugged - Wilt" /></a><br/>
       <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><b>bite my tongue - unplugged</b></a><br/>
       <sub>Wilt</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"><img src="https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39" width="150" alt="Selfless - The Strokes" /></a><br/>
-      <a href="https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"><b>Selfless</b></a><br/>
-      <sub>The Strokes</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 07/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 08/11/2026</sub>
 
 </div>
 
