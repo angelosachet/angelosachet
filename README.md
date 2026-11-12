@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><img src="https://i.scdn.co/image/ab67616d00001e02fb5f82d19f9ad9e5be78873a" width="150" alt="Freio Motor - Ítalo Ribeiro" /></a><br/>
-      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><b>Freio Motor</b></a><br/>
-      <sub>Ítalo Ribeiro</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
       <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
       <sub>Galick</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/1EqhUJROfA4jQaBEaBeEx6"><img src="https://i.scdn.co/image/ab67616d00001e02178ae6e6c252273bb0661da0" width="150" alt="Música Para Achar Bruxa - Exclusive Os Cabides" /></a><br/>
       <a href="https://open.spotify.com/track/1EqhUJROfA4jQaBEaBeEx6"><b>Música Para Achar Bruxa</b></a><br/>
       <sub>Exclusive Os Cabides</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
+      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/62ODcIMTYy3Ccn7W02gf4w"><img src="https://i.scdn.co/image/ab67616d00001e020ff02cd0d91494c0619eb9c2" width="150" alt="Azul - zimbra" /></a><br/>
-      <a href="https://open.spotify.com/track/62ODcIMTYy3Ccn7W02gf4w"><b>Azul</b></a><br/>
-      <sub>zimbra</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
-      <sub>chard la plaga</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><img src="https://i.scdn.co/image/ab67616d00001e02fb5f82d19f9ad9e5be78873a" width="150" alt="Freio Motor - Ítalo Ribeiro" /></a><br/>
+      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><b>Freio Motor</b></a><br/>
+      <sub>Ítalo Ribeiro</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3AMgoR92hEqVz7DkNldHlA"><img src="https://i.scdn.co/image/ab67616d00001e02178ae6e6c252273bb0661da0" width="150" alt="Rua da Lua Cheia - Exclusive Os Cabides" /></a><br/>
       <a href="https://open.spotify.com/track/3AMgoR92hEqVz7DkNldHlA"><b>Rua da Lua Cheia</b></a><br/>
       <sub>Exclusive Os Cabides</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/7BWGf8XuCYMUZbfuhBjWj5"><img src="https://i.scdn.co/image/ab67616d00001e02178ae6e6c252273bb0661da0" width="150" alt="Luminária de lava - Exclusive Os Cabides" /></a><br/>
+      <a href="https://open.spotify.com/track/7BWGf8XuCYMUZbfuhBjWj5"><b>Luminária de lava</b></a><br/>
+      <sub>Exclusive Os Cabides</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 11/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 12/11/2026</sub>
 
 </div>
 
