@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
+      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
+      <sub>lilgiela33</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2Dn2uIYvzHLSMF9u75BXNJ"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="C.C.A.M - zTokyo" /></a><br/>
       <a href="https://open.spotify.com/track/2Dn2uIYvzHLSMF9u75BXNJ"><b>C.C.A.M</b></a><br/>
       <sub>zTokyo</sub><br/>
       <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
-      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
-      <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/06BGrHc4dx7bX9y45sqlf8"><img src="https://i.scdn.co/image/ab67616d00001e02d8c005fced7309293daaa102" width="150" alt="Merdas Acontecem - lilgiela33" /></a><br/>
-      <a href="https://open.spotify.com/track/06BGrHc4dx7bX9y45sqlf8"><b>Merdas Acontecem</b></a><br/>
-      <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><img src="https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726" width="150" alt="Nutshell - Alice in Chains" /></a><br/>
+      <a href="https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"><b>Nutshell</b></a><br/>
+      <sub>Alice in Chains</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/09CyyItfyowmZokr9Fl7m2"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Ion Luv U Like That (Bonus Track) - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/09CyyItfyowmZokr9Fl7m2"><b>Ion Luv U Like That (Bonus Track)</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
+      <a href="https://open.spotify.com/track/17B1ZRLTyLCPuFWXUYkFop"><img src="https://i.scdn.co/image/ab67616d00001e02c8d569f4bd732b519740c9db" width="150" alt="Nunca Entenderam - lilgiela33" /></a><br/>
+      <a href="https://open.spotify.com/track/17B1ZRLTyLCPuFWXUYkFop"><b>Nunca Entenderam</b></a><br/>
+      <sub>lilgiela33</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5rV0UCQs3FOGUJbT3GsZhV"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Silêncio - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/5rV0UCQs3FOGUJbT3GsZhV"><b>Silêncio</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
+      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
+      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
+      <sub>chard la plaga</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5CXePSBuKM9ecsB0R5OdY5"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Essa Cidade - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/5CXePSBuKM9ecsB0R5OdY5"><b>Essa Cidade</b></a><br/>
-      <sub>zTokyo</sub><br/>
+      <a href="https://open.spotify.com/track/4N4EYC0eF7ix4qh9GkeK2q"><img src="https://i.scdn.co/image/ab67616d00001e0289bd77a51491581af7b02c9a" width="150" alt="Despedida - Selvagens À Procura de Lei" /></a><br/>
+      <a href="https://open.spotify.com/track/4N4EYC0eF7ix4qh9GkeK2q"><b>Despedida</b></a><br/>
+      <sub>Selvagens À Procura de Lei</sub><br/>
       <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 14/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 15/11/2026</sub>
 
 </div>
 
