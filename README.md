@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
+      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
+      <sub>lilgiela33</sub><br/>
+      <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2Dn2uIYvzHLSMF9u75BXNJ"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="C.C.A.M - zTokyo" /></a><br/>
       <a href="https://open.spotify.com/track/2Dn2uIYvzHLSMF9u75BXNJ"><b>C.C.A.M</b></a><br/>
       <sub>zTokyo</sub><br/>
       <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
-      <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
-      <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><img src="https://i.scdn.co/image/ab67616d00001e02345bbecb9227f7c015e73bf1" width="150" alt="Nada Demais - zTokyo" /></a><br/>
       <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><b>Nada Demais</b></a><br/>
       <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
   <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Isqueiro - zTokyo" /></a><br/>
+      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><b>Isqueiro</b></a><br/>
+      <sub>zTokyo</sub><br/>
+      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/4Fxr0uo16Ulk2AeKPEDGaU"><img src="https://i.scdn.co/image/ab67616d00001e02c8d569f4bd732b519740c9db" width="150" alt="Ela Vai Conhecer a Dor - lilgiela33" /></a><br/>
+      <a href="https://open.spotify.com/track/4Fxr0uo16Ulk2AeKPEDGaU"><b>Ela Vai Conhecer a Dor</b></a><br/>
+      <sub>lilgiela33</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+    </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
       <sub>chard la plaga</sub><br/>
       <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><img src="https://i.scdn.co/image/ab67616d00001e024fff3740b398d07d56f6a5fb" width="150" alt="FRUKI LARANJA - Galick" /></a><br/>
-      <a href="https://open.spotify.com/track/6BgLxausd8szRF3p6zKLIt"><b>FRUKI LARANJA</b></a><br/>
-      <sub>Galick</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/17B1ZRLTyLCPuFWXUYkFop"><img src="https://i.scdn.co/image/ab67616d00001e02c8d569f4bd732b519740c9db" width="150" alt="Nunca Entenderam - lilgiela33" /></a><br/>
-      <a href="https://open.spotify.com/track/17B1ZRLTyLCPuFWXUYkFop"><b>Nunca Entenderam</b></a><br/>
-      <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
-    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 16/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 17/11/2026</sub>
 
 </div>
 
