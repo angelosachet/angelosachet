@@ -64,41 +64,41 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <img src="https://img.shields.io/badge/10%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="10 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2Dn2uIYvzHLSMF9u75BXNJ"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="C.C.A.M - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/2Dn2uIYvzHLSMF9u75BXNJ"><b>C.C.A.M</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
+      <a href="https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"><img src="https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12" width="150" alt="Fake Plastic Trees - Radiohead" /></a><br/>
+      <a href="https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"><b>Fake Plastic Trees</b></a><br/>
+      <sub>Radiohead</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><img src="https://i.scdn.co/image/ab67616d00001e02345bbecb9227f7c015e73bf1" width="150" alt="Nada Demais - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><b>Nada Demais</b></a><br/>
-      <sub>zTokyo</sub><br/>
+      <a href="https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"><img src="https://i.scdn.co/image/ab67616d00001e02afc2d1d2c8703a10aeded0af" width="150" alt="Lover, You Should've Come Over - Jeff Buckley" /></a><br/>
+      <a href="https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"><b>Lover, You Should've Come Over</b></a><br/>
+      <sub>Jeff Buckley</sub><br/>
       <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Isqueiro - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><b>Isqueiro</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+      <a href="https://open.spotify.com/track/3W7KHojYGgYaoX9ogKO9hU"><img src="https://i.scdn.co/image/ab67616d00001e02f20d15ff288e94492f7097eb" width="150" alt="Nothing's Gonna Hurt You Baby - Cigarettes After Sex" /></a><br/>
+      <a href="https://open.spotify.com/track/3W7KHojYGgYaoX9ogKO9hU"><b>Nothing's Gonna Hurt You Baby</b></a><br/>
+      <sub>Cigarettes After Sex</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4Fxr0uo16Ulk2AeKPEDGaU"><img src="https://i.scdn.co/image/ab67616d00001e02c8d569f4bd732b519740c9db" width="150" alt="Ela Vai Conhecer a Dor - lilgiela33" /></a><br/>
-      <a href="https://open.spotify.com/track/4Fxr0uo16Ulk2AeKPEDGaU"><b>Ela Vai Conhecer a Dor</b></a><br/>
-      <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+      <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><img src="https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc" width="150" alt="K. - Cigarettes After Sex" /></a><br/>
+      <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><b>K.</b></a><br/>
+      <sub>Cigarettes After Sex</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
-      <sub>chard la plaga</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+      <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><img src="https://i.scdn.co/image/ab67616d00001e0268f976257f19889fa27771e7" width="150" alt="bite my tongue - unplugged - Wilt" /></a><br/>
+      <a href="https://open.spotify.com/track/4MFFiam7A0M0rjzN5S7Rug"><b>bite my tongue - unplugged</b></a><br/>
+      <sub>Wilt</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 17/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 18/11/2026</sub>
 
 </div>
 
