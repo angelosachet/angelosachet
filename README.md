@@ -61,7 +61,7 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><img src="https://i.scdn.co/image/ab67616d00001e02206046c2f29806fc9b3d0efd" width="150" alt="Eu Te Esqueci Garota - lilgiela33" /></a><br/>
       <a href="https://open.spotify.com/track/7gWDYf9rmyRdl858HM5SL4"><b>Eu Te Esqueci Garota</b></a><br/>
       <sub>lilgiela33</sub><br/>
-      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
+      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Isqueiro - zTokyo" /></a><br/>
@@ -78,6 +78,12 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><img src="https://i.scdn.co/image/ab67616d00001e02f23aee9d3be9fcbca1bc6352" width="150" alt="XO TOUR Llif3 - Lil Uzi Vert" /></a><br/>
+      <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><b>XO TOUR Llif3</b></a><br/>
+      <sub>Lil Uzi Vert</sub><br/>
+      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
       <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
       <sub>chard la plaga</sub><br/>
@@ -89,16 +95,10 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <sub>Trippie Redd</sub><br/>
       <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><img src="https://i.scdn.co/image/ab67616d00001e02f23aee9d3be9fcbca1bc6352" width="150" alt="XO TOUR Llif3 - Lil Uzi Vert" /></a><br/>
-      <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><b>XO TOUR Llif3</b></a><br/>
-      <sub>Lil Uzi Vert</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
-    </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 20/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 21/11/2026</sub>
 
 </div>
 
