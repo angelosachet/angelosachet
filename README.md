@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><img src="https://i.scdn.co/image/ab67616d00001e02e58309b9a1b1f39b3da8e260" width="150" alt="boyz dont cry - chard la plaga" /></a><br/>
-      <a href="https://open.spotify.com/track/3EjVcqZs3GHWItHlA11ate"><b>boyz dont cry</b></a><br/>
-      <sub>chard la plaga</sub><br/>
+      <a href="https://open.spotify.com/track/2UEc0kgTLpGdeTSc0OhnbQ"><img src="https://i.scdn.co/image/ab67616d00001e02778efed1fd4efff181123902" width="150" alt="Maria - Ítalo Ribeiro" /></a><br/>
+      <a href="https://open.spotify.com/track/2UEc0kgTLpGdeTSc0OhnbQ"><b>Maria</b></a><br/>
+      <sub>Ítalo Ribeiro</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/4N4EYC0eF7ix4qh9GkeK2q"><img src="https://i.scdn.co/image/ab67616d00001e0289bd77a51491581af7b02c9a" width="150" alt="Despedida - Selvagens À Procura de Lei" /></a><br/>
+      <a href="https://open.spotify.com/track/4N4EYC0eF7ix4qh9GkeK2q"><b>Despedida</b></a><br/>
+      <sub>Selvagens À Procura de Lei</sub><br/>
       <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY"><img src="https://i.scdn.co/image/ab67616d00001e025f2ca3e8b93fd5bc304480f5" width="150" alt="Aoi, Koi, Daidaiiro no Hi - MASS OF THE FERMENTING DREGS" /></a><br/>
-      <a href="https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY"><b>Aoi, Koi, Daidaiiro no Hi</b></a><br/>
-      <sub>MASS OF THE FERMENTING DREGS</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0jRnSvYidtmvaQZYX1Q5Hu"><img src="https://i.scdn.co/image/ab67616d00001e026f72802310e44b16d81b9dc8" width="150" alt="傷口にお砂糖 - CARAMEL CANDiD" /></a><br/>
-      <a href="https://open.spotify.com/track/0jRnSvYidtmvaQZYX1Q5Hu"><b>傷口にお砂糖</b></a><br/>
-      <sub>CARAMEL CANDiD</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
+      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><img src="https://i.scdn.co/image/ab67616d00001e02fb5f82d19f9ad9e5be78873a" width="150" alt="Freio Motor - Ítalo Ribeiro" /></a><br/>
+      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><b>Freio Motor</b></a><br/>
+      <sub>Ítalo Ribeiro</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><img src="https://i.scdn.co/image/ab67616d00001e02f23aee9d3be9fcbca1bc6352" width="150" alt="XO TOUR Llif3 - Lil Uzi Vert" /></a><br/>
-      <a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><b>XO TOUR Llif3</b></a><br/>
-      <sub>Lil Uzi Vert</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
+      <a href="https://open.spotify.com/track/2YceJ7lJrBu845FgQ1hTCJ"><img src="https://i.scdn.co/image/ab67616d00001e02c87450a6f5084e62221f3531" width="150" alt="Potássio - Ítalo Ribeiro" /></a><br/>
+      <a href="https://open.spotify.com/track/2YceJ7lJrBu845FgQ1hTCJ"><b>Potássio</b></a><br/>
+      <sub>Ítalo Ribeiro</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><img src="https://i.scdn.co/image/ab67616d00001e022e33b0358c29bd84bc2c657f" width="150" alt="Isqueiro - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/092VX0tOCe8jKZ7Ec6LmMG"><b>Isqueiro</b></a><br/>
-      <sub>zTokyo</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
+      <a href="https://open.spotify.com/track/7hqKYctgAHBob8rGiFE14q"><img src="https://i.scdn.co/image/ab67616d00001e025eb8190557e1e91350c2ac4d" width="150" alt="Atrás/Além - O Terno" /></a><br/>
+      <a href="https://open.spotify.com/track/7hqKYctgAHBob8rGiFE14q"><b>Atrás/Além</b></a><br/>
+      <sub>O Terno</sub><br/>
+      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><img src="https://i.scdn.co/image/ab67616d00001e02345bbecb9227f7c015e73bf1" width="150" alt="Nada Demais - zTokyo" /></a><br/>
-      <a href="https://open.spotify.com/track/49x2cKwxQIMdHevwMlx5tL"><b>Nada Demais</b></a><br/>
-      <sub>zTokyo</sub><br/>
+      <a href="https://open.spotify.com/track/0hIrvNW4uJQqE6Pu4jSpKM"><img src="https://i.scdn.co/image/ab67616d00001e02eb0a8a6adde8d1e2d24cd0e8" width="150" alt="Lagartixa Tropical - Exclusive Os Cabides" /></a><br/>
+      <a href="https://open.spotify.com/track/0hIrvNW4uJQqE6Pu4jSpKM"><b>Lagartixa Tropical</b></a><br/>
+      <sub>Exclusive Os Cabides</sub><br/>
       <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 23/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 24/11/2026</sub>
 
 </div>
 
