@@ -58,47 +58,47 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"><img src="https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601" width="150" alt="What Once Was - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"><b>What Once Was</b></a><br/>
+      <sub>Her's</sub><br/>
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/2UEc0kgTLpGdeTSc0OhnbQ"><img src="https://i.scdn.co/image/ab67616d00001e02778efed1fd4efff181123902" width="150" alt="Maria - Ítalo Ribeiro" /></a><br/>
       <a href="https://open.spotify.com/track/2UEc0kgTLpGdeTSc0OhnbQ"><b>Maria</b></a><br/>
       <sub>Ítalo Ribeiro</sub><br/>
       <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/4N4EYC0eF7ix4qh9GkeK2q"><img src="https://i.scdn.co/image/ab67616d00001e0289bd77a51491581af7b02c9a" width="150" alt="Despedida - Selvagens À Procura de Lei" /></a><br/>
-      <a href="https://open.spotify.com/track/4N4EYC0eF7ix4qh9GkeK2q"><b>Despedida</b></a><br/>
-      <sub>Selvagens À Procura de Lei</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><img src="https://i.scdn.co/image/ab67616d00001e02fb5f82d19f9ad9e5be78873a" width="150" alt="Freio Motor - Ítalo Ribeiro" /></a><br/>
-      <a href="https://open.spotify.com/track/0IcoLdEM9FaIpLEUxfEo2G"><b>Freio Motor</b></a><br/>
-      <sub>Ítalo Ribeiro</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+      <a href="https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ"><img src="https://i.scdn.co/image/ab67616d00001e02280a001e43c93792dd1e27c7" width="150" alt="She Needs Him - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ"><b>She Needs Him</b></a><br/>
+      <sub>Her's</sub><br/>
+      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2YceJ7lJrBu845FgQ1hTCJ"><img src="https://i.scdn.co/image/ab67616d00001e02c87450a6f5084e62221f3531" width="150" alt="Potássio - Ítalo Ribeiro" /></a><br/>
-      <a href="https://open.spotify.com/track/2YceJ7lJrBu845FgQ1hTCJ"><b>Potássio</b></a><br/>
-      <sub>Ítalo Ribeiro</sub><br/>
+      <a href="https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"><img src="https://i.scdn.co/image/ab67616d00001e02280a001e43c93792dd1e27c7" width="150" alt="Harvey - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"><b>Harvey</b></a><br/>
+      <sub>Her's</sub><br/>
+      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/3Zq2naJ92TwUhC32Iov3a6"><img src="https://i.scdn.co/image/ab67616d00001e02f577eb30146ddef13f743306" width="150" alt="Loving You - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/3Zq2naJ92TwUhC32Iov3a6"><b>Loving You</b></a><br/>
+      <sub>Her's</sub><br/>
       <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/7hqKYctgAHBob8rGiFE14q"><img src="https://i.scdn.co/image/ab67616d00001e025eb8190557e1e91350c2ac4d" width="150" alt="Atrás/Além - O Terno" /></a><br/>
-      <a href="https://open.spotify.com/track/7hqKYctgAHBob8rGiFE14q"><b>Atrás/Além</b></a><br/>
-      <sub>O Terno</sub><br/>
+      <a href="https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"><img src="https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601" width="150" alt="Marcel - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"><b>Marcel</b></a><br/>
+      <sub>Her's</sub><br/>
       <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/0hIrvNW4uJQqE6Pu4jSpKM"><img src="https://i.scdn.co/image/ab67616d00001e02eb0a8a6adde8d1e2d24cd0e8" width="150" alt="Lagartixa Tropical - Exclusive Os Cabides" /></a><br/>
-      <a href="https://open.spotify.com/track/0hIrvNW4uJQqE6Pu4jSpKM"><b>Lagartixa Tropical</b></a><br/>
-      <sub>Exclusive Os Cabides</sub><br/>
-      <img src="https://img.shields.io/badge/4%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="4 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 24/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 25/11/2026</sub>
 
 </div>
 
