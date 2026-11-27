@@ -58,22 +58,22 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"><img src="https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601" width="150" alt="What Once Was - Her's" /></a><br/>
-      <a href="https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"><b>What Once Was</b></a><br/>
+      <img src="https://placehold.co/300x300/0a0a0a/D95F5F?text=%E2%99%AA" width="150" alt="What Once Was - Her's" /><br/>
+      <b>What Once Was</b><br/>
       <sub>Her's</sub><br/>
-      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/2UEc0kgTLpGdeTSc0OhnbQ"><img src="https://i.scdn.co/image/ab67616d00001e02778efed1fd4efff181123902" width="150" alt="Maria - Ítalo Ribeiro" /></a><br/>
-      <a href="https://open.spotify.com/track/2UEc0kgTLpGdeTSc0OhnbQ"><b>Maria</b></a><br/>
-      <sub>Ítalo Ribeiro</sub><br/>
-      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
+      <img src="https://img.shields.io/badge/11%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="11 plays" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ"><img src="https://i.scdn.co/image/ab67616d00001e02280a001e43c93792dd1e27c7" width="150" alt="She Needs Him - Her's" /></a><br/>
       <a href="https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ"><b>She Needs Him</b></a><br/>
       <sub>Her's</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+      <img src="https://img.shields.io/badge/9%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="9 plays" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"><img src="https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601" width="150" alt="Marcel - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"><b>Marcel</b></a><br/>
+      <sub>Her's</sub><br/>
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
   </tr>
   <tr>
@@ -81,24 +81,24 @@ Quando o front pede, fecho o ciclo. Quando o servidor pede, abro o terminal.
       <a href="https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"><img src="https://i.scdn.co/image/ab67616d00001e02280a001e43c93792dd1e27c7" width="150" alt="Harvey - Her's" /></a><br/>
       <a href="https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"><b>Harvey</b></a><br/>
       <sub>Her's</sub><br/>
-      <img src="https://img.shields.io/badge/6%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="6 plays" />
+      <img src="https://img.shields.io/badge/8%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="8 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/3Zq2naJ92TwUhC32Iov3a6"><img src="https://i.scdn.co/image/ab67616d00001e02f577eb30146ddef13f743306" width="150" alt="Loving You - Her's" /></a><br/>
-      <a href="https://open.spotify.com/track/3Zq2naJ92TwUhC32Iov3a6"><b>Loving You</b></a><br/>
+      <a href="https://open.spotify.com/track/3zjvduyGhyBKYCVHGn6E74"><img src="https://i.scdn.co/image/ab67616d00001e02280a001e43c93792dd1e27c7" width="150" alt="Don't Think It Over - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/3zjvduyGhyBKYCVHGn6E74"><b>Don't Think It Over</b></a><br/>
       <sub>Her's</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"><img src="https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601" width="150" alt="Marcel - Her's" /></a><br/>
-      <a href="https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"><b>Marcel</b></a><br/>
+      <a href="https://open.spotify.com/track/6RG8y3WSNUE3DcIC3eQCXO"><img src="https://i.scdn.co/image/ab67616d00001e02280a001e43c93792dd1e27c7" width="150" alt="Blue Lips - Her's" /></a><br/>
+      <a href="https://open.spotify.com/track/6RG8y3WSNUE3DcIC3eQCXO"><b>Blue Lips</b></a><br/>
       <sub>Her's</sub><br/>
-      <img src="https://img.shields.io/badge/5%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="5 plays" />
+      <img src="https://img.shields.io/badge/7%20plays-D95F5F?style=flat-square&labelColor=0a0a0a" alt="7 plays" />
     </td>
   </tr>
 </table>
 
-<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 25/11/2026</sub>
+<sub>Ranking do <a href="https://www.last.fm/user/sachetangelo23">Last.fm</a> · capas e links do Spotify · atualizado em 27/11/2026</sub>
 
 </div>
 
